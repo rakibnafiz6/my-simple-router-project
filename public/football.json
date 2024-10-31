@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "name": "Neymar Jr",
+      "img": "link_to_image",
+      "skill": "Forward",
+      "details": "Star player known for dribbling, playmaking, and scoring abilities. Neymar holds the record for Brazil's second all-time leading scorer after Pelé."
+    },
+    {
+      "id": 2,
+      "name": "Alisson Becker",
+      "img": "link_to_image",
+      "skill": "Goalkeeper",
+      "details": "One of the world’s top goalkeepers, known for his reflexes, composure, and shot-stopping skills. Plays for Liverpool and has won the Premier League and Champions League."
+    },
+    {
+      "id": 3,
+      "name": "Thiago Silva",
+      "img": "link_to_image",
+      "skill": "Defender",
+      "details": "Veteran center-back with leadership skills and experience in top European clubs, including PSG and Chelsea. Known for his defensive positioning and aerial ability."
+    },
+    {
+      "id": 4,
+      "name": "Casemiro",
+      "img": "link_to_image",
+      "skill": "Midfielder",
+      "details": "Defensive midfielder with exceptional tackling and intercepting abilities. Anchors the midfield and has a long tenure at Real Madrid, now with Manchester United."
+    },
+    {
+      "id": 5,
+      "name": "Vinícius Jr",
+      "img": "link_to_image",
+      "skill": "Forward",
+      "details": "Pace-driven winger known for his dribbling, creativity, and assists. Has made a major impact at Real Madrid with his rapid development and goal-scoring."
+    },
+    {
+      "id": 6,
+      "name": "Marquinhos",
+      "img": "link_to_image",
+      "skill": "Defender",
+      "details": "Reliable center-back and occasional defensive midfielder. Known for tactical awareness and leadership, he plays for PSG."
+    },
+    {
+      "id": 7,
+      "name": "Lucas Paquetá",
+      "img": "link_to_image",
+      "skill": "Midfielder",
+      "details": "Creative attacking midfielder with passing and dribbling skills. Vital in connecting midfield to attack, currently playing in the Premier League."
+    },
+    {
+      "id": 8,
+      "name": "Danilo",
+      "img": "link_to_image",
+      "skill": "Defender",
+      "details": "Versatile full-back who can play on either side. Known for defensive stability and contributing to attack. Plays for Juventus."
+    },
+    {
+      "id": 9,
+      "name": "Gabriel Jesus",
+      "img": "link_to_image",
+      "skill": "Forward",
+      "details": "Forward with versatility to play as a winger or central striker. Known for work rate and technical skills, representing Arsenal in the Premier League."
+    },
+    {
+      "id": 10,
+      "name": "Raphinha",
+      "img": "link_to_image",
+      "skill": "Winger",
+      "details": "Winger known for speed and ability to beat defenders. Plays for Barcelona, contributing assists and pace to the team’s attack."
+    },
+    {
+      "id": 11,
+      "name": "Rodrygo Goes",
+      "img": "link_to_image",
+      "skill": "Forward",
+      "details": "Young talent known for agility and goal-scoring for Real Madrid. Plays as a winger or forward and complements Brazil’s offensive options."
+    }
+  ]

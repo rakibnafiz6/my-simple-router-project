@@ -1,0 +1,93 @@
+
+     [
+      {
+        "id": 1,
+        "name": "Shakib Al Hasan",
+        "img": "URL_to_image",
+        "player_details": "Shakib, Bangladesh's captain, is the leading all-rounder with 1,146 runs and 34 wickets in World Cups. Known for his ability to perform under pressure, he has been a consistent leader both in batting and bowling, holding records like the highest runs by a Bangladeshi in a single World Cup (606 runs in 2019).",
+        "type": "All-Rounder",
+        "batting_or_bowling": "Left-handed batsman, left-arm orthodox bowler"
+      },
+      {
+        "id": 2,
+        "name": "Litton Das",
+        "img": "URL_to_image",
+        "player_details": "Wicketkeeper-batsman, aggressive top-order player.",
+        "type": "Wicketkeeper-Batsman",
+        "batting_or_bowling": "Right-handed batsman"
+      },
+      {
+        "id": 3,
+        "name": "Najmul Hossain Shanto",
+        "img": "URL_to_image",
+        "player_details": "Vice-Captain, steady middle-order batsman.",
+        "type": "Batter",
+        "batting_or_bowling": "Left-handed batsman"
+      },
+      {
+        "id": 4,
+        "name": "Mushfiqur Rahim",
+        "img": "URL_to_image",
+        "player_details": "Mushfiqur is Bangladesh's experienced wicketkeeper-batsman and the second-highest ODI run-scorer in the team. With over 7,400 ODI runs, his reliable middle-order presence and sharp keeping skills are vital to Bangladesh's performance.",
+        "type": "Wicketkeeper-Batsman",
+        "batting_or_bowling": "Right-handed batsman"
+      },
+      {
+        "id": 5,
+        "name": "Towhid Hridoy",
+        "img": "URL_to_image",
+        "player_details": "A promising young batsman, Hridoy brings fresh talent to the team. Known for his aggressive stroke play, he offers flexibility in the batting order.",
+        "type": "Batter",
+        "batting_or_bowling": "Right-handed batsman"
+      },
+      {
+        "id": 6,
+        "name": "Mehidy Hasan Miraz",
+        "img": "URL_to_image",
+        "player_details": "Key all-rounder, known for off-spin.",
+        "type": "All-Rounder",
+        "batting_or_bowling": "Right-handed batsman, right-arm off-break bowler"
+      },
+      {
+        "id": 7,
+        "name": "Mahmudullah Riyad",
+        "img": "URL_to_image",
+        "player_details": "Experienced finisher with part-time spin.",
+        "type": "All-Rounder",
+        "batting_or_bowling": "Right-handed batsman, right-arm off-break bowler"
+      },
+      {
+        "id": 8,
+        "name": "Tanzid Hasan Tamim",
+        "img": "URL_to_image",
+        "player_details": "Promising left-handed opener.",
+        "type": "Batter",
+        "batting_or_bowling": "Left-handed batsman"
+      },
+      {
+        "id": 9,
+        "name": "Taskin Ahmed",
+        "img": "URL_to_image",
+        "player_details": "Taskin has taken 21 ODI wickets in 2023, making him one of Bangladesh's most consistent pacers. His pace and aggressive bowling style bring depth to the team's bowling lineup.",
+        "type": "Bowler",
+        "batting_or_bowling": "Right-arm fast bowler"
+      },
+      {
+        "id": 10,
+        "name": "Mustafizur Rahman",
+        "img": "URL_to_image",
+        "player_details": "Death overs specialist with variations.",
+        "type": "Bowler",
+        "batting_or_bowling": "Left-arm fast-medium bowler"
+      },
+      {
+        "id": 11,
+        "name": "Shoriful Islam",
+        "img": "URL_to_image",
+        "player_details": "A left-arm pacer known for his swing, Shoriful adds variety to the Bangladesh bowling attack. His ability to pick up wickets early is valuable in limiting opposition runs.",
+        "type": "Bowler",
+        "batting_or_bowling": "Left-arm fast bowler"
+      }
+    ]
+  
+  
