@@ -9,6 +9,7 @@ import {
 import Home from './components/Home/Home.jsx';
 import Cricket from './components/Cricket/Cricket.jsx';
 import Football from './components/Football/Football.jsx';
+import CricketDetails from './components/CricketDetails/CricketDetails.jsx';
 const router = createBrowserRouter([
   {
     path: '/',
@@ -18,6 +19,11 @@ const router = createBrowserRouter([
         path: '/cricket',
         loader: () => fetch('cricket.json'),
         element: <Cricket></Cricket>
+      },
+      {
+        path: '/cricket/:cricketId',
+        loader: ({params}) => fetch(`https://jsonplaceholder.typicode.com/users/${params.cricketId}`),
+        element: <CricketDetails></CricketDetails>
       },
       {
         path: '/football',

@@ -1,8 +1,12 @@
-import { useLoaderData } from "react-router-dom";
+import { Link, useLoaderData, } from "react-router-dom";
 
 
 const Cricket = () => {
     const cricket = useLoaderData();
+    
+
+   
+
     return (
         <div className="grid grid-cols-3 gap-6">
             
@@ -19,6 +23,7 @@ const Cricket = () => {
    <p>{player.batting_or_bowling}</p>
     <div className="card-actions justify-end">
       <button className="btn btn-primary">Details</button>
+      <Link to={`/cricket/${player.id}`}>details</Link>
     </div>
   </div>
 </div>

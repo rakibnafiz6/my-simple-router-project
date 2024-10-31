@@ -11,6 +11,7 @@ const Home = () => {
             <div className="flex gap-20 mt-24 w-11/12 mx-auto">
             <SideBar></SideBar>
             <Outlet></Outlet>
+            
             </div>
             <Footer></Footer>
         </div>
